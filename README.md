@@ -1,6 +1,9 @@
 To take picture
 
 ~~~
+import { MediaStreamTrack } from 'react-native-webrtc';
+
+
 const takePicture = () => {
    const streamId = localStream.getVideoTracks().filter(track => track.kind === 'video');
     if (streamId.length > 0) {
