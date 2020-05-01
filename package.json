@@ -1,0 +1,59 @@
+{
+  "_args": [
+    [
+      "github:Ubiatar/react-native-webrtc#still-photo-69.0",
+      "/home/himanshuverma/Documents/upwork/volo/WebRTCDemo"
+    ]
+  ],
+  "_from": "github:Ubiatar/react-native-webrtc#still-photo-69.0",
+  "_id": "react-native-webrtc@github:Ubiatar/react-native-webrtc#de0763522100a26b8cb1966d04b20f12719cc230",
+  "_inBundle": false,
+  "_integrity": "",
+  "_location": "/react-native-webrtc",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "git",
+    "raw": "github:Ubiatar/react-native-webrtc#still-photo-69.0",
+    "rawSpec": "github:Ubiatar/react-native-webrtc#still-photo-69.0",
+    "saveSpec": "github:Ubiatar/react-native-webrtc#still-photo-69.0",
+    "fetchSpec": null,
+    "gitCommittish": "still-photo-69.0"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "github:Ubiatar/react-native-webrtc#de0763522100a26b8cb1966d04b20f12719cc230",
+  "_spec": "github:Ubiatar/react-native-webrtc#still-photo-69.0",
+  "_where": "/home/himanshuverma/Documents/upwork/volo/WebRTCDemo",
+  "author": {
+    "name": "Oney",
+    "email": "appdevoney@gmail.com"
+  },
+  "bugs": {
+    "url": "https://github.com/oney/react-native-webrtc/issues"
+  },
+  "dependencies": {
+    "base64-js": "^1.1.2",
+    "event-target-shim": "^1.0.5",
+    "prop-types": "^15.5.10"
+  },
+  "description": "WebRTC for React Native",
+  "homepage": "https://github.com/oney/react-native-webrtc",
+  "keywords": [
+    "react-component",
+    "react-native",
+    "ios",
+    "android",
+    "webrtc"
+  ],
+  "name": "react-native-webrtc",
+  "nativePackage": true,
+  "peerDependencies": {
+    "react-native": ">=0.40.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oney/react-native-webrtc.git"
+  },
+  "version": "1.69.0"
+}
